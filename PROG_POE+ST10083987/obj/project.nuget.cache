@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnYGNDHyVunLhTcMH60Gl+UGVEF8JUAv0GKqFrALpTlWZX0JDopVY5owrEOfe90BYg3znocgTSEKvoW2jxHj2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\PROG_POE+ST10083987\\PROG_POE+ST10083987.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\syncfusion.data.wpf\\20.2.0.36\\syncfusion.data.wpf.20.2.0.36.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\syncfusion.licensing\\20.2.0.36\\syncfusion.licensing.20.2.0.36.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\syncfusion.sfgrid.wpf\\20.2.0.36\\syncfusion.sfgrid.wpf.20.2.0.36.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\syncfusion.shared.wpf\\20.2.0.36\\syncfusion.shared.wpf.20.2.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

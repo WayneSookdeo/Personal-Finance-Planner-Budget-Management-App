@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Syncfusion.Data.WPF/20.2.0.36": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Data.WPF.dll": {
+            "assemblyVersion": "20.2500.0.36",
+            "fileVersion": "20.2500.0.36"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.36": {
+        "runtime": {
+          "lib/net5.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.2.0.36",
+            "fileVersion": "20.2.0.36"
+          }
+        }
+      },
+      "Syncfusion.SfGrid.WPF/20.2.0.36": {
+        "dependencies": {
+          "Syncfusion.Data.WPF": "20.2.0.36",
+          "Syncfusion.Licensing": "20.2.0.36",
+          "Syncfusion.Shared.WPF": "20.2.0.36"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfGrid.WPF.dll": {
+            "assemblyVersion": "20.2500.0.36",
+            "fileVersion": "20.2500.0.36"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.2.0.36": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.2.0.36"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.2500.0.36",
+            "fileVersion": "20.2500.0.36"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Data.WPF/20.2.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CavH/qI7eb9JJ/KvgUTM9W0BOY2fDyXgynyMpD+I7SOs6grxd0k5O5amdPOL2XTsY/KdDi0zrWUPKdS9CE1DjQ==",
+      "path": "syncfusion.data.wpf/20.2.0.36",
+      "hashPath": "syncfusion.data.wpf.20.2.0.36.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.2.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+tqb0Bl9Ip1/hu1tDOUbJx524q3G3nY46vSXbUBQpJKE7nuWSkTDHLycvnK4/aw32Amn8FP4yPS59iXXZKIBew==",
+      "path": "syncfusion.licensing/20.2.0.36",
+      "hashPath": "syncfusion.licensing.20.2.0.36.nupkg.sha512"
+    },
+    "Syncfusion.SfGrid.WPF/20.2.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mQIYNFvFkEQlHv+jsWwsIBdmrtfU0Iqv9AdqiXv7zDMXMLZr85i0pqtyS90RNCZqm/44MrrCglcCgXIUDG5aQw==",
+      "path": "syncfusion.sfgrid.wpf/20.2.0.36",
+      "hashPath": "syncfusion.sfgrid.wpf.20.2.0.36.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.2.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-95Nv0r0kdbn3qJLzmA5TMRzLLUfN2Uq/ECWfkAume5dPWz32Qck2TZ4t4gKIMsK6K6xpQzKjeipcMvjpHrguBw==",
+      "path": "syncfusion.shared.wpf/20.2.0.36",
+      "hashPath": "syncfusion.shared.wpf.20.2.0.36.nupkg.sha512"
+    }
+  }
+}
